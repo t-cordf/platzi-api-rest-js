@@ -1,0 +1,19 @@
+{
+  "name": "platzi-api-rest",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-cordf/platzi-api-rest-js.git"
+  },
+  "author": "Freddy Cordova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-cordf/platzi-api-rest-js/issues"
+  },
+  "homepage": "https://github.com/t-cordf/platzi-api-rest-js#readme"
+}
